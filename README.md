@@ -1,21 +1,21 @@
 # BugLog
 ## Obtaining malware has never been easier.
 
-• Adware
+[• Adware](https://pages.github.com/)
 
-• Browser Hijackers
+[• Browser Hijackers](https://pages.github.com/)
 
-• Cryptojackers
+[• Cryptojackers](https://pages.github.com/)
 
-• Jokeware
+[• Jokeware](https://pages.github.com/)
 
-• Scareware
+[• Scareware](https://pages.github.com/)
 
-• PUA
+[• PUA](https://pages.github.com/)
 
-• Ransomware
+[• Ransomware](https://pages.github.com/)
 
-• Spyware
+[• Spyware](https://pages.github.com/)
 
-• Trojans
+[• Trojans](https://pages.github.com/)
 
