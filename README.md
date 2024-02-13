@@ -11,7 +11,7 @@
 
 [• Scareware](https://pages.github.com/)
 
-[• PUA](https://github.com/d0pple33/BugLog/blob/main/PUA.md)
+[• PUA](https://d0pple33.github.io/BugLog/PUA.md)
 
 [• Ransomware](https://pages.github.com/)
 
