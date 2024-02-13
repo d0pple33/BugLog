@@ -1,2 +1,5 @@
-# Obtaining malware has never been easier.
+# BugLog
+## Obtaining malware has never been easier.
+
+
 
