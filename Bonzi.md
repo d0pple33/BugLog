@@ -1,6 +1,6 @@
 ### **BonziBUDDY**
 
-**Threat Type:** Adware
+**Threat Type:** Adware, Spyware
 
 
 
