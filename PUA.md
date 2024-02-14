@@ -1,5 +1,7 @@
 # Potentially Unwanted Applications
 
+[• Charity Engine](https://d0pple33.github.io/BugLog/CharEng.html)
+
 [• CRaccoon](https://d0pple33.github.io/BugLog/CRaccoon.html)
 
 [• Decacopy](https://d0pple33.github.io/BugLog/Decacopy.html)
