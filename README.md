@@ -16,7 +16,7 @@
 
 [• Ransomware](https://pages.github.com/)
 
-[• Spyware](https://pages.github.com/)
+[• Spyware](https://d0pple33.github.io/BugLog/Spyware.html)
 
 [• Trojans](https://pages.github.com/)
 
