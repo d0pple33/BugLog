@@ -1,5 +1,7 @@
 # Potentially Unwanted Applications
 
+[• CRaccoon](https://d0pple33.github.io/BugLog/CRaccoon.html)
+
 [• Decacopy](https://d0pple33.github.io/BugLog/Decacopy.html)
 
 [• Downloadly](https://d0pple33.github.io/BugLog/Downloadly.html)
