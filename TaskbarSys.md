@@ -11,7 +11,7 @@
 
 
 ### **Short Bio**
-Taskbar System claims to be a tool to adjust and customize the Windows taskbar.
+Taskbar System is advertised as a tool to adjust and customize the Windows taskbar.
 It automatically adds itself to the computer's start-up programs and acts as proxyware, turning infected machines into 'residential IP proxies'.
 
 It is usually bundled with other programs or downloaded by users themselves. 
