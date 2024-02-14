@@ -5,7 +5,7 @@
 
 
 
-**Damage Potential:** 40%% (MEDIUM)
+**Damage Potential:** 40% (MEDIUM)
 
 **Distribution Potential:** 20% (LOW)
 
