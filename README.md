@@ -6,7 +6,7 @@
 
 [• Browser Hijackers](https://pages.github.com/)
 
-[• Cryptojackers](https://d0pple33.github.io/BugLog/Cryptojackers.html)
+[• Cryptojackers](https://d0pple33.github.io/BugLog/CJ.html)
 
 [• Jokeware](https://pages.github.com/)
 
