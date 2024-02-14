@@ -1,5 +1,7 @@
 # Adware
 
+[• Auslogics Disk Defrag](https://d0pple33.github.io/BugLog/AusDDF.html)
+
 [• BonziBUDDY](https://d0pple33.github.io/BugLog/Bonzi.html)
 
 [• Citrio](https://d0pple33.github.io/BugLog/Citrio.html)
