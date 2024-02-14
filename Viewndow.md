@@ -17,7 +17,7 @@ It automatically adds itself to the computer's start-up programs and acts as pro
 It is usually bundled with other programs or downloaded by users themselves.
 
 
-[Download Sample](https://t.ly/FeLwc)
+[Download Sample](https://mega.nz/file/BfFTFAba#JFoUR7VVjwsfb-cyOSA9IO9tArD1tLk-PVwJmD1dUxo)
 
 
 
