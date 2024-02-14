@@ -8,7 +8,7 @@
 
 [• Cryptojackers](https://d0pple33.github.io/BugLog/CJ.html)
 
-[• Jokeware](https://pages.github.com/)
+[• Jokeware](https://d0pple33.github.io/BugLog/Jokeware.html)
 
 [• Scareware](https://pages.github.com/)
 
