@@ -2,7 +2,7 @@
 ## Threat Encyclopedia
 ### Obtaining malware has never been easier.
 
-[• Adware](https://pages.github.com/)
+[• Adware](https://d0pple33.github.io/BugLog/Adware.html)
 
 [• Browser Hijackers](https://pages.github.com/)
 
