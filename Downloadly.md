@@ -11,7 +11,7 @@
 
 
 ### **Short Bio**
-Downloadly claims to be a useful tool to download YouTube videos. In its ToS, it openly states that it will use computer resources to mine Monero.
+Downloadly is advertised as a useful tool to download YouTube videos. In its ToS, it openly states that it will use computer resources to mine Monero.
 
 It is usually bundled with other programs or downloaded by users themselves.
 
