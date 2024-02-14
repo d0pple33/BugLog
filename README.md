@@ -1,5 +1,6 @@
-# Threat Encyclopedia
-## Obtaining malware has never been easier.
+# BugLog
+## Threat Encyclopedia
+### Obtaining malware has never been easier.
 
 [• Adware](https://pages.github.com/)
 
