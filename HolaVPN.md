@@ -13,4 +13,4 @@
 ### **Short Bio**
 Hola VPN is a peer-to-peer proxy service that routes internet traffic through other users' IP addresses. Free users also share their Wi-Fi and cellular data with the network, to save Hola VPN money.
 
-[Download Sample]()
+[Download Sample](https://mega.nz/file/QLNRDIhS#OvPWXNXpXXQphUDWv7bY-bKflpaWZAK925fm-d-jJxk)
