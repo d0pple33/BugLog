@@ -2,6 +2,8 @@
 
 [• Decacopy](https://d0pple33.github.io/BugLog/Decacopy.html)
 
+[• Downloadly](https://d0pple33.github.io/BugLog/Cryptojackers/Downloadly.html)
+
 [• Taskbar System](https://d0pple33.github.io/BugLog/TaskbarSys.html)
 
 [• Viewndow](https://d0pple33.github.io/BugLog/Viewndow.html)
