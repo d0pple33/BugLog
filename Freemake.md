@@ -15,4 +15,4 @@ Freemake Video Converter is a freemium tool that lets users convert videos in di
 
 While not inherently malicious, it is classified as adware and PUA due to being an OpenCandy installer and potentially installing additional PUA during its setup wizard.
 
-[Download Sample]()
+[Download Sample](https://mega.nz/file/1CFRhZiZ#4Q5dVGJoF8LSlaWtqNhVpTWF_Of_To9tQPfk6btccgM)
