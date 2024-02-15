@@ -18,5 +18,5 @@
 
 [• Spyware](https://d0pple33.github.io/BugLog/Spyware.html)
 
-[• Trojans](https://pages.github.com/)
+[• Trojans](https://d0pple33.github.io/BugLog/troj.html)
 
