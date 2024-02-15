@@ -15,4 +15,4 @@ Auslogics Disk Defrag is advertised as a system optimization tool. It acts as ad
 
 It is usually bundled with other programs or downloaded by users themselves.
 
-[Download Sample]()
+[Download Sample](https://mega.nz/file/BHkC3bbB#izRXHB5mfuJmByeyhzUrcjvJO7twyztIQSQCWULfk9M)
