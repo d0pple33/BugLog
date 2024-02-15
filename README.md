@@ -4,7 +4,7 @@
 
 [• Adware](https://d0pple33.github.io/BugLog/Adware.html)
 
-[• Browser Hijackers](https://pages.github.com/)
+[• Browser Hijackers](https://d0pple33.github.io/BugLog/BH.html)
 
 [• Cryptojackers](https://d0pple33.github.io/BugLog/CJ.html)
 
