@@ -8,8 +8,6 @@
 
 [• Downloadly](https://d0pple33.github.io/BugLog/Downloadly.html)
 
-[• Freemake Video Converter](https://d0pple33.github.io/BugLog/Freemake.html)
-
 [• Hola Browser](https://d0pple33.github.io/BugLog/HolaBr.html)
 
 [• Hola VPN](https://d0pple33.github.io/BugLog/HolaVPN.html)
