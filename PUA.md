@@ -12,6 +12,8 @@
 
 [• Hola VPN](https://d0pple33.github.io/BugLog/HolaVPN.html)
 
+[• PremierOpinion](https://d0pple33.github.io/BugLog/Premier.html)
+
 [• RelevantKnowledge](https://d0pple33.github.io/BugLog/RelevantKnowledge.html)
 
 [• Supernova](https://d0pple33.github.io/BugLog/Supernova.html)
