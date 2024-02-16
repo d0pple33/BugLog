@@ -15,7 +15,7 @@ RelevantKnowledge is advertised as a tool that people can use to express their o
 
 It behaves as adware.
 
-[Download Sample]()
+[Download Sample](https://mega.nz/file/Vbth0Y7T#fi7ebWfsg82IZLsGiwZH40FcgDeR77wU714ivNGGxtk)
 
 
 
