@@ -18,4 +18,4 @@ It can also be classified as spyware, due to the fact that it openly states it w
 
 It is usually bundled with other programs or downloaded by users themselves.
 
-[Download Sample]()
+[Download Sample](https://mega.nz/file/ED83hSxZ#awo1QCQCB2hfO7126fRJdo3GWIUzLxiZxsULj92izmw)
