@@ -12,6 +12,8 @@
 
 [• Hola VPN](https://d0pple33.github.io/BugLog/HolaVPN.html)
 
+[• Supernova](https://d0pple33.github.io/BugLog/Supernova.html)
+
 [• Taskbar System](https://d0pple33.github.io/BugLog/TaskbarSys.html)
 
 [• Viewndow](https://d0pple33.github.io/BugLog/Viewndow.html)
