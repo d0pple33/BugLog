@@ -15,7 +15,7 @@ PremierOpinion is advertised as a tool that people can use to express their opin
 
 It behaves as adware.
 
-[Download Sample]()
+[Download Sample](https://mega.nz/file/gHUW2BzR#M6fI_4HGw634yRBL1GV5JaMpkEsMGpHsQ38akZKelpw)
 
 
 
