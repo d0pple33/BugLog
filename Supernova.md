@@ -17,3 +17,5 @@ It hijacks infected machines' CPU, GPU and RAM to mine cryptocurrency for a thre
 It can also be classified as spyware, due to the fact that it openly states it will automatically collect personal data from infected machines, which includes: Tracker, Usage Data, geographic position, Email address, Storage permission, Bluetooth sharing permission, first name and last name.
 
 It is usually bundled with other programs or downloaded by users themselves.
+
+[Download Sample]()
