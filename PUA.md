@@ -16,6 +16,8 @@
 
 [• RelevantKnowledge](https://d0pple33.github.io/BugLog/RelevantKnowledge.html)
 
+[• ScanUtilities](https://d0pple33.github.io/BugLog/ScanUtil.html)
+
 [• Supernova](https://d0pple33.github.io/BugLog/Supernova.html)
 
 [• Taskbar System](https://d0pple33.github.io/BugLog/TaskbarSys.html)
