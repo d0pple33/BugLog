@@ -10,7 +10,7 @@
 
 [• Jokeware](https://d0pple33.github.io/BugLog/Jokeware.html)
 
-[• Scareware](https://pages.github.com/)
+[• Scareware](https://d0pple33.github.io/BugLog/ScanUtil.html)
 
 [• PUA](https://d0pple33.github.io/BugLog/PUA.html)
 
