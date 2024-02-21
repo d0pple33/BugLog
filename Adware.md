@@ -8,6 +8,8 @@
 
 [• CRaccoon](https://d0pple33.github.io/BugLog/CRaccoon.html)
 
+[• PC Accelerate Pro](https://d0pple33.github.io/BugLog/Adware/PCaP.html)
+
 [• PremierOpinion](https://d0pple33.github.io/BugLog/Premier.html)
 
 [• RelevantKnowledge](https://d0pple33.github.io/BugLog/RelevantKnowledge.html)
