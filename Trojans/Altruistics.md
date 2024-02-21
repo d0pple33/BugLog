@@ -16,4 +16,4 @@ It is very persistent, creates a lot of registry edits and will slow down infect
 
 It is very rare, as due to the fact that its official website being broken, it can only be obtained when being bundled with other software.
 
-[Download Sample]()
+[Download Sample](https://mega.nz/file/QDNTGJxY#ZYJOK3SNUXb6eueVLtV50LZVIKGkOI6XN-IRRV2v7n0)
