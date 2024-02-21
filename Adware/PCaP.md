@@ -1,6 +1,6 @@
 ### **PC Accelerate Pro**
 
-**Threat Type:** Rogueware, Adware, PUA
+**Threat Type:** Scareware, Adware, PUA
 
 
 
