@@ -13,3 +13,5 @@
 [• PremierOpinion](https://d0pple33.github.io/BugLog/Premier.html)
 
 [• RelevantKnowledge](https://d0pple33.github.io/BugLog/RelevantKnowledge.html)
+
+[• Weather Zero](https://d0pple33.github.io/BugLog/Adware/WeatherZero.html)
