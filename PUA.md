@@ -16,6 +16,8 @@
 
 [• PremierOpinion](https://d0pple33.github.io/BugLog/Premier.html)
 
+[• RAV Endpoint Protection](https://d0pple33.github.io/BugLog/RAVEPP.html)
+
 [• RelevantKnowledge](https://d0pple33.github.io/BugLog/RelevantKnowledge.html)
 
 [• ScanUtilities](https://d0pple33.github.io/BugLog/ScanUtil.html)
