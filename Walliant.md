@@ -25,7 +25,7 @@ Walliant is a potentially unwanted application that behaves as proxyware.
 
 **Affected Operating Systems:** Windows
 
-**Associated Domains:** https://www.walliant.com/, https://www.barousel.com/
+**Associated Domains:** [www.walliant.com](https://www.walliant.com/), [www.barousel.com](https://www.barousel.com/)
 
 ## Behavior Analysis
 Walliant is advertised as a dynamic wallpaper engine.
