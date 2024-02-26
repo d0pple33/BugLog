@@ -25,7 +25,7 @@ Decacopy is a potentially unwanted application that behaves as proxyware.
 
 **Affected Operating Systems:** Windows
 
-**Associated Domains:** https://www.decacopy.com/
+**Associated Domains:** [www.decacopy.com](https://www.decacopy.com/)
 
 ## Behavior Analysis
 Walliant is advertised as a lightweight clipboard tool.
