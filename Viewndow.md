@@ -10,7 +10,7 @@
 **Slowdown Potential:** 40% **(MEDIUM)**
 
 ## Short Bio
-Viewndow is a potentially unwanted application that behaves as proxyware.
+Viewndow is a potentially unwanted application that behaves as proxyware and a browser hijacker.
 
 ## Technical Details
 **File Name:** viewndowlp.exe
