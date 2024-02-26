@@ -25,7 +25,7 @@ Taskbar System is a potentially unwanted application that behaves as proxyware.
 
 **Affected Operating Systems:** Windows
 
-**Associated Domains:** https://www.taskbarsystem.com/
+**Associated Domains:** [www.taskbarsystem.com](https://www.taskbarsystem.com/)
 
 ## Behavior Analysis
 Taskbar System is advertised as a tool that lets you adjust and customize the Windows taskbar.
