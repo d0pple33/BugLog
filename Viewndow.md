@@ -1,6 +1,6 @@
 # Viewndow
 
-**Threat Type:** PUA, Proxyware
+**Threat Type:** PUA, Proxyware, Browser Hijacker
 
 
 **Damage Potential:** 20% **(LOW)**
@@ -33,6 +33,8 @@ Viewndow is advertised as a tool that lets you pin desired windows.
 It gains persistence on infected systems by adding itself to the start-up programs, creating multiple registry entries and keys, and dropping multiple files in system directories.
 
 It contains the GlobalHop SDK, which creates exit nodes in the infected device; These exit nodes are then sold by GlobalHop Ltd. to companies which provide proxy services to their clients, essentially turning infected machines into exit nodes for proxy services.
+
+The PUA also hijacks the infected machine's browser, redirecting queries through shady search engines.
 
 Viewndow is also distributed under the name Pinaview and is usually downloaded by users themselves or bundled along with other programs. 
 
