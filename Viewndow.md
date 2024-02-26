@@ -25,7 +25,7 @@ Viewndow is a potentially unwanted application that behaves as proxyware.
 
 **Affected Operating Systems:** Windows
 
-**Associated Domains:** https://www.viewndow.com/, https://www.pinaview.com/
+**Associated Domains:** [www.viewndow.com](https://www.viewndow.com/), [www.pinaview.com](https://www.pinaview.com/)
 
 ## Behavior Analysis
 Viewndow is advertised as a tool that lets you pin desired windows.
