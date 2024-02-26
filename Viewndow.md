@@ -14,11 +14,17 @@ Viewndow is a potentially unwanted application that behaves as proxyware.
 
 ## Technical Details
 **File Name:** viewndowlp.exe
+
 **File Size:** 3.95 MB
+
 **MD5 Hash:** 45dc770549a636543076e997f0a30637
+
 **SHA256 Hash:** 9e51f4f0e3b15565d5fcc874888e331f35d0948795e5c46a2ef74bfb3ff9c946
+
 **Initial Discovery Date:** Feb 3, 2024
+
 **Affected Operating Systems:** Windows
+
 **Associated Domains:** https://www.viewndow.com/, https://www.pinaview.com/
 
 ## Behavior Analysis
