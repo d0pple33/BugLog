@@ -13,13 +13,13 @@
 Altruistics is a trojan that uses infected machine's resources to mine cryptocurrency for a threat actor. 
 
 ## Technical Details
-**File Name:** Altruistics.exe
+**File Name:** AltruisticsApp.exe
 
-**File Size:** 22.54 MB
+**File Size:** 3.63 MB
 
-**MD5 Hash:** 78f2bc55220756d098f75229fc390c60
+**MD5 Hash:** ad94ec2050d0341e5ef2bc777af04225
 
-**SHA256 Hash:** f386085aefb882cf07fab5673fa4c4eed8c7c92c6660aae5b5835877a5133893
+**SHA256 Hash:** 648a6ca3e3a302802ccb0afa8dab28a0e96ed34c816922dd1b3c0c7ce2a87ea4
 
 **Initial Discovery Date:** Feb 21, 2024
 
@@ -35,4 +35,4 @@ Altruistics is also distributed under multiple different names, such as Atructis
 
 Its official website is broken, so it can only be obtained through bundle installers; Hence it is very rare. 
 
-### [Download Sample](https://mega.nz/file/gH8hQLaC#qbBXn3UHJ2uabnGqrajKhzua6Or1Y-2ikVZrOinl2M4)
+### [Download Sample](https://mega.nz/file/FDM3UDYT#klozofRIsHHHrCFl-Y1wtrb1o4ZDE-Ezzb6qKztYrlo)
